@@ -1,0 +1,185 @@
+body{
+
+ background-color: rgb(211, 170, 108);
+   
+}
+
+.header{
+    background-color: rgb(254, 255, 255);
+    width: 1500px;
+    height: 500px;
+    background-image: url(images/jazzan.jpg);
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0px auto 0px auto;
+    border-radius: 50px;
+    color: white;
+    background-size: cover;
+    font-family: rubik;
+}
+
+#header1{
+
+    margin-bottom: 10px;
+    text-shadow: 0px 0px 4px  white;
+    
+}
+
+#header2{
+
+    margin-top: 0px;
+    text-shadow: 0px 0px 5px white;
+}
+
+.activity{
+    width: 1500px;
+    height: 500px;
+    background-color: rgb(51, 104, 148);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-shadow: 0px 0px 5px burlywood;
+    margin: 0px auto 100px auto;
+    border-radius: 30px;
+    
+  
+    
+   
+}
+
+#hactivity{
+
+    text-align: center;
+    color: aliceblue;
+    text-shadow: 0px 0px 4px burlywood;
+    background-color: rgb(123, 198, 241);
+    width: 1500px;
+    margin: 30px auto 0px auto;
+    border-radius: 30px;
+   font-family: Rubik;
+
+}
+
+
+
+.activityimg{
+
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    padding: 20px;
+    
+    
+}
+
+.description{
+
+    text-align: center;
+    font-size: 16px;
+    display: block;
+    font-family: rubik;
+}
+
+.activity1{
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 333px;
+    color: white;
+   
+}
+
+.activity2{
+     
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 333px;
+    margin: auto 150px auto 150px;
+    color: white;
+   
+
+
+}
+
+.activity3{
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 333px;
+    color: white;
+   
+
+}
+
+.h3act{
+
+    margin-bottom: 5px;
+}
+
+.guide{
+
+    width: 500px;
+    background-color: rgb(187, 175, 14);
+    display: flex;
+    align-items: center;
+    margin: 0px auto 0px auto;
+    justify-content: space-around;
+    border-bottom: 5px solid rgb(53, 49, 3);
+    margin-bottom: 100px ;
+}
+
+.gimg{
+
+    width: 150px;
+    height:200px ;
+    margin-right: 20px ;
+    border: 2px solid burlywood;
+}
+
+.gdescription{
+
+    text-align: center;
+    font-size: large;
+    width: 500px;
+    width: 250px;
+    font-family: rubik;
+}
+
+.footer{
+
+   text-align: center;
+   color: white;
+   text-shadow: 0px 0px 5px black;
+   
+}
+
+i{
+    width: 50px;
+    height: 50px;
+    font-size: 30px;
+    color: rgb(255, 230, 0);
+
+}
+
+#i2{
+
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.activityimg:hover{
+
+    border: 5px solid rgb(115, 206, 248);
+   
+   
+
+}
